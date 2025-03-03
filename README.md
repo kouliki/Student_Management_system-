@@ -52,7 +52,7 @@ The Student Management System is a simple JavaSwing-based desktop application th
 
 - Clone the repository:
 
-  git clone https://github.com/kouliki/Attendance-Management-system.git
+  git clone https://github.com/kouliki/Student_Management_system-.git
 
  ###Prerequisites
  - Install Java 11+
