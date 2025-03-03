@@ -29,11 +29,24 @@ The Student Management System is a simple JavaFX-based desktop application that 
 
 **Page-2** :
 
-   <img src="https://github.com/user-attachments/assets/42716db6-e188-42bc-bcac-f0573ad7ec28" alt="Screenshot 2025-01-15 130734" width="500"/>
+   <img src="https://github.com/user-attachments/assets/5a7f59e5-076c-493f-ae9c-d260ad40bff0" alt="Image" width="500"/>
 
 **Page-3** :
 
-   <img src="https://github.com/user-attachments/assets/0970d251-78f3-48a1-af72-f472d57b318d" alt="Screenshot 2025-01-15 144934" width="500"/>
+   <img src="https://github.com/user-attachments/assets/97617bc7-1b60-4ff1-9701-750aeb928bc6" alt="Image" width="500"/>
+
+**Page-4** :
+
+   <img src="https://github.com/user-attachments/assets/12362c0e-10b3-4d58-a8f0-67ec7c2b5719" alt="Image" width="500"/>
+
+**Page-5** :
+
+   <img src="https://github.com/user-attachments/assets/91cebe68-65ec-4882-a916-f37b841dbe38" alt="Image" width="500"/>
+
+**Page-6** :
+
+   <img src="https://github.com/user-attachments/assets/39de720e-2e2a-4e39-9b19-b719cde96f35" alt="Image" width="500"/>
+   
 
 
   
