@@ -1,11 +1,8 @@
-# Student_Management_system-
-
-A student management system is created using Java and contains the basic information like add, delete, search, update and exit with a smooth GUI built using Java Swing.
-
+# Student_Management_system 👩‍🎓
 
 ## Overview
 
-The Student Management System is a simple JavaFX-based desktop application that allows users to manage student records. Users can add, view, search, update, and delete student data using a graphical user interface.
+The Student Management System is a simple JavaSwing-based desktop application that allows users to manage student records. Users can add, view, search, update, and delete student data using a graphical user interface.
 
 ## Features 🌟
 
